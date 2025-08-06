@@ -14,3 +14,7 @@ A modern and responsive Admin Dashboard built using **React.js** and **Recharts*
 - Vite
 - Recharts
 - Tailwind CSS
+
+
+## Live Demo
+https://admin-dashboard009.netlify.app/
